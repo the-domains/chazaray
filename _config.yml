@@ -1,0 +1,28 @@
+name: CHAZARAY
+favicon: null
+layout_spectrum: 0.11299619800411165
+typography_spectrum: 0.29164182650856674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.32256218371912837
+  lightness: 0.7566619939170778
+  saturation: 0.5393015446607023
+  rhythmicContrast: 0.6317876349203289
+purpose: []
